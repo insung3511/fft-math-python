@@ -1,11 +1,13 @@
 # Fourier Transform by Python
-이미지 프로세싱에서 푸리에 변환이 어떤 식으로 사용이 되는지를 수학 및 OpenCV, Numpy 를 통해서 확인하며 공부를 하였다.
+이미지 프로세싱에서 푸리에 변환이 어떤 식으로 사용이 되는지를 수학 및 OpenCV, Numpy 를 통해서 확인하며 공부를 하였습니다.
 
 # Directory
 ```
 ./docs/2021수학발표.pdf
 ```
 수학적 기법 및 파이썬에서의 작동 원리와 활용 예시를 간단히 정리한 발표 자료 입니다. 해당 본 문서는 <a href="https://www.apple.com/keynote/">Keynote</a>로 작성이 되었으며 다른 이들이 볼 수 있게 PDF 로 업로드 하였습니다. 원본 문서는 업로드 예정에 없습니다.
+
+만일 필요할 경우 Issue에 작성을 해주시면 검토 후에 따로 드리던지 하겠습니다.
 ```
 img
 ├── jogang.jpg
